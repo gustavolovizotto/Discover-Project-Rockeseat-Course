@@ -18,5 +18,3 @@ function toggleMode(){
         img.setAttribute('src', './Assets/avatar.png');
     }
 }
-
-//pegar tag image , sbstituir a imagem, se tiver light mode, imagem light, sem light mode, manter imagem normal
